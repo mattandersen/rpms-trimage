@@ -1,0 +1,12 @@
+diff -ruN Trimage-1.0.5/setup.py Trimage-1.0.5-1/setup.py
+--- Trimage-1.0.5/setup.py	2013-01-26 07:35:56.000000000 -0800
++++ Trimage-1.0.5-1/setup.py	2017-06-18 22:26:16.507421844 -0700
+@@ -9,7 +9,7 @@
+ from distutils.core import setup
+ 
+ setup(name = "trimage",
+-    version = "1.0.2",
++    version = "1.0.5",
+     description = "Trimage image compressor - A cross-platform tool for optimizing PNG and JPG files",
+     author = "Kilian Valkhof, Paul Chaplin",
+     author_email = "help@trimage.org",
