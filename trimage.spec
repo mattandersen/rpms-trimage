@@ -7,7 +7,7 @@ License:	MIT
 URL:		https://trimage.org/
 
 
-Source0:	https://github.com/Kilian/Trimage/archive/%{version}.tar.gz
+Source0:	%{name}-%{version}.tar.gz
 Patch0:		trimage-1.0.5-fix-egg-version.patch
 BuildArch:	noarch
 BuildRequires:	python2-devel
